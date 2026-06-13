@@ -21,11 +21,8 @@
 title: Habs Lose :/
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://habs-lose.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username:  jekyll
 
 # Build settings
-theme: minima
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -10,7 +10,7 @@ title: Property of Dana
     <img src = "habs_lose.jpeg" alt = "habs freaking lost">
 </div>
 <div style="display: flex; justify-content: center; align-items: center">
-    <a href="https://www.nhl.com/schedule/playoff-series/2026/series-i/canadiens-vs-sabres">Tough L</a>
+    <h1><a href="https://www.nhl.com/schedule/playoff-series/2026/series-i/canadiens-vs-sabres">Tough L</a></h1>
 </div>
 
 
